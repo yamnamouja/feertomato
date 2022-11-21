@@ -1,0 +1,34 @@
+{
+  "banner_admob": "",
+  "inter_admob": "",
+  "reword_admob": "",
+  "sdk_key": "MyR0NzDPxJT10q3PiOd-z_6IXTPbNTnauSsHgUo_AXETtFAWlk0Hm-HPKTnBBXzZ2vFgpbKl5uiMJi2rPODmms",
+  "banner_applovin": "",
+  "inter_applovin": "728717557277858a",
+  "reword_applovin": "4039526d190d1915",
+  "game_id": "",
+  "banner_unity": "",
+  "inter_unity": "",
+  "reword_unity":"",
+  "banner_fan": "",
+  "inter_fan": "",
+  "reword_fan":"",
+
+  "urlimages":[
+    "https://img.itch.zone/aW1nLzM3OTg1ODAuanBn/original/9bVgM9.jpg",
+    "https://img.itch.zone/aW1nLzM3OTg1ODUuanBn/original/DXvH0p.jpg",
+    "https://img.itch.zone/aW1nLzM3OTg1OTcuanBn/original/SMXtVR.jpg",
+    "https://img.itch.zone/aW1nLzM3OTg2MDAuanBn/original/8WtmRa.jpg",
+    "https://img.itch.zone/aW1nLzM3OTg2MDQuanBn/original/YiBaHs.jpg",
+    "https://raw.githubusercontent.com/rered12/mr/main/mr%20tomatos%20horror.jpg"
+    ],
+"textes":[
+  "Welcome to my game, buddy!Mr. TomatoS is glad to see you! He waited a long time for someone to visit him! Feel like at home and get ready for endless f̶u̶n̶ !",
+  "Mr. TomatoS needs YOUR help! looks like he had not eaten for ages! Of course not, he has no hands! Feed Mr. Tomatos with big variety of food, combine it with blender, and use different items to help you with this task! But why should I do this? Glad you asked! By helping him you can earn a lot of points to spend them in the shop later! Everyone loves to earn points, right?",
+  "Mr.TomatoS' art is very sloppy and sketchy, and it seems like it was made using MS Paint. However, it really matches the style and humor of the game, so it can be easily ignored. Meanwhile, the gameplay is pretty straightforward. However, the instructions can be really confusing for first-time players because there are a lot of things going on.",
+  "You navigate through the game using your mouse. The left mouse button is used to both grab food and drop it in its place, either to feed Mr. Tomato or to use the blender. You use the blender to combine different food, but not all food can be combined together, and you can only blend two different products at the same time.",
+  "If the player reaches an anger ending then everything in the kitchen takes on a more sinister appearance. Mr.TomatoS will taunt the player and demand to be fed some rather gruesome items. If the player is able to satisfy the angered Mr.TomatoS then the gameplay will return to the normal style."
+  ],
+"QuiteTxt":"n"
+ 
+}
